@@ -1,0 +1,6 @@
+{
+  "name": "LifeTip - 스마트한 1인 가구 살림 팁",
+  "description": "1인 가구 빅데이터 기반 해결 솔루션! 3초 만에 검증된 현실 자취 팁과 실패 없는 청소·요리 노하우를 찾아드려요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
